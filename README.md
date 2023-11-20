@@ -1,16 +1,29 @@
-### Hi there 👋
+# SANJEEV C - Backend Developer
 
-<!--
-**sanjeev929/sanjeev929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Hello! I'm Sanjeev C , a passionate backend developer with a keen interest in building scalable and efficient software solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 💡 I love diving into complex problems and crafting elegant solutions using Python.
+- 🎓 I hold a degree in BE Computer Science and Engineering.
+- 🌱 Currently honing my skills in backend development, API design, and database management.
+- ✍️ In my free time, I enjoy contributing to open-source projects and staying up-to-date with the latest trends in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Here are some of the technologies I work with:
+
+- Python | Django | Flask | FastAPI
+- SQL | MongoDB
+- Git | GitHub
+- AWS | EC2
+- Alexa skills | Google Actions
+
+## 🤝 Connect with Me
+Let's connect! Feel free to reach out for collaboration or just to have an interesting tech discussion.
+
+- 📧 Email: sanjeevsanju929@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sanjeev-c-44a035252
+
+## 📄 Portfolio
+Check out my portfolio for more details about my projects and work. [https://sanjeev929.github.io/]
+Happy to coding! 🚀
+
