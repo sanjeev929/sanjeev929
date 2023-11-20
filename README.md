@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 Let's connect! Feel free to reach out for collaboration or just to have an interesting tech discussion.
 
 - 📧 Email: sanjeevsanju929@gmail.com
-- 💼 LinkedIn: linkedin.com/in/sanjeev-c-44a035252
+- 💼 LinkedIn: https://www.linkedin.com/in/sanjeev-c-44a035252/
 
 ## 📄 Portfolio
 Check out my portfolio for more details about my projects and work. [https://sanjeev929.github.io/]
