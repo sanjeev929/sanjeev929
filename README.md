@@ -14,7 +14,7 @@ Here are some of the technologies I work with:
 - Python | Django | Flask | FastAPI
 - SQL | MongoDB
 - Git | GitHub
-- AWS | EC2
+- AWS | EC2 | Lamda
 - Alexa skills | Google Actions
 
 ## 🤝 Connect with Me
