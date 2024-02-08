@@ -1,7 +1,7 @@
 # SANJEEV C - Python Developer
 
 ## 👨‍💻 About Me
-Hello! I'm Sanjeev C , a passionate backend developer with a keen interest in building scalable and efficient software solutions. Here's a bit about me:
+Hello! I'm Sanjeev C , a passionate python backend developer with a keen interest in building scalable and efficient software solutions. Here's a bit about me:
 
 - 💡 I love diving into complex problems and crafting elegant solutions using Python.
 - 🎓 I hold a degree in BE Computer Science and Engineering.
