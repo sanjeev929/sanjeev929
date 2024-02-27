@@ -1,4 +1,5 @@
-# SANJEEV C - Python Developer <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+# SANJEEV C - Python Developer 
 
 ## 👨‍💻 About Me
 Hello! I'm Sanjeev C , a passionate python backend developer with a keen interest in building scalable and efficient software solutions. Here's a bit about me:
