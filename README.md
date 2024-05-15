@@ -13,8 +13,8 @@ Hello! I'm Sanjeev C , a passionate python backend developer with a keen interes
 Here are some of the technologies I work with:
 
 - Python | Django | Flask | FastAPI
-- SQL | MongoDB
-- Git | GitHub
+- PostgresSQL | MongoDB | Firebase
+- Git | GitHub | Githubactions
 - AWS | EC2 | Lamda
 - Alexa skills | Google Actions
 
