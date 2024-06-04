@@ -23,7 +23,6 @@ Let's connect! Feel free to reach out for collaboration or just to have an inter
 
 - 📧 Email: sanjeevsanju929@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sanjeev-c-44a035252/
--   Youtube: https://www.youtube.com/channel/UC4Xgvrqw-H6paYRQuDS6tog 
 
 ## 📄 Portfolio
 Check out my portfolio for more details about my projects and work. [https://sanjeev929.github.io/]
