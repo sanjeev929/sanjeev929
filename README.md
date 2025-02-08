@@ -1,6 +1,9 @@
-<h1 align="center">Hi there, I'm Encoding! 👋</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212289658-d1a98f27-1962-437d-8ee5-324292f68f40.gif" alt="Docker Container Animation" width="80%">
+</p>
 
-<!-- ASCII Art for Aesthetic Touch -->
+<h1 align="center">Hi there, I'm Sanjeev 👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D86FF&center=true&vCenter=true&width=435&lines=Python+Developer;FastAPI+%7C+Django+%7C+LangChain;Building+Scalable+Systems;Crafting+Awesome+APIs;Always+Learning+%F0%9F%92%AA" />
 </p>
@@ -63,6 +66,3 @@
 🌎 [Portfolio Website](https://yourportfolio.com)  
 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
 🐦 [Twitter](https://twitter.com/your-handle)  
-
----
-
