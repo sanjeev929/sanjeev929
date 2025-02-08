@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/container.jpeg" alt="Docker Container Animation" width="80%">
+  <img src="/container.jpg" alt="Docker Container Animation" width="80%">
 </p>
 
 
