@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212289658-d1a98f27-1962-437d-8ee5-324292f68f40.gif" alt="Docker Container Animation" width="80%">
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/animation_500_kxa883sd.gif" alt="Docker Container Animation" width="80%">
 </p>
+
 
 <h1 align="center">Hi there, I'm Sanjeev 👋</h1>
 
