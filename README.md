@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/raw/master/animation_500_kxa883sd.gif" alt="Docker Container Animation" width="80%">
+  <img src="/container.jpeg" alt="Docker Container Animation" width="80%">
 </p>
 
 
