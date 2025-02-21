@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Sanjeev 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D86FF&center=true&vCenter=true&width=435&lines=Python+Developer;FastAPI+%7C+Django+%7C+LangChain;Building+Scalable+Systems;Crafting+Awesome+APIs;Always+Learning+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D86FF&center=true&vCenter=true&width=435&lines=Python+Developer;FastAPI+%7C+SQL&NoSQL+%7C+AI;Building+Scalable+Systems;Crafting+Awesome+APIs;Always+Learning+%F0%9F%92%AA" />
 </p>
 
 ---
