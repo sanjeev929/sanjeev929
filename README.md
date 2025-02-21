@@ -49,7 +49,7 @@
 
 ## 🏆 GitHub Trophies  
 <picture>
-    <img src="https://streak-stats.demolab.com/?user=sanjeev929&theme=tokyonight&hide_border=false" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjeev929&ryo-ma&theme=tokyonight" />
 </picture>
 
 ---
