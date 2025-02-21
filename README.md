@@ -49,8 +49,7 @@
 
 ## 🏆 GitHub Trophies  
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sanjeev929&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=sanjeev929&theme=default" />
+    <img src="https://streak-stats.demolab.com/?user=sanjeev929&theme=tokyonight&hide_border=false" />
 </picture>
 
 ---
