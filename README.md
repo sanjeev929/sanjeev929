@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjeev929&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://streak-stats.demolab.com?user=sanjeev929&theme=tokyonight&hide_border=false" width="48%">
+  <img src="https://streak-stats.demolab.com?user=sanjeev929&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%">
 </p>
 
 ---
