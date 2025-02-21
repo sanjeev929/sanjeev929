@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me  
-🔹 **Passionate Python Developer** specializing in **FastAPI, Django, LangChain, and AI-based chatbots**.  
+🔹 **Passionate Python Developer** specializing in **FastAPI with SQL & NoSQL, and AI-based chatbots**.  
 🔹 Experienced in **building scalable APIs, microservices, and real-time applications**.  
 🔹 Love **clean code**, **SOLID principles**, and **system design**.  
 
