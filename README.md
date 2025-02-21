@@ -49,6 +49,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sanjeev929)](https://git.io/streak-stats)
   <img src="https://github-profile-trophy.vercel.app/?username=sanjeev929&ryo-ma&theme=tokyonight" alt="Trophies" />
 </p>
 
