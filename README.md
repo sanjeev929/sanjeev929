@@ -51,7 +51,7 @@
 
 ## 🏆 GitHub Trophies  
 <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjeev929&ryo-ma&theme=tokyonight" />
+    <img src="https://github-trophies.vercel.app/?username=sanjeev929&lucthienphong1120&theme=tokyonight" />
 </picture>
 
 ---
