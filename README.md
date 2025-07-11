@@ -66,6 +66,6 @@
 ---
 
 ## 📫 Let's Connect!  
-🌎 [Portfolio Website](https://yourportfolio.com)  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐦 [Twitter](https://twitter.com/your-handle)  
+🌎 [Portfolio Website](https://sanjeev929.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-c-44a035252/)  
+🐦 [Twitter](https://x.com/sanjeevc2001)  
