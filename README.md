@@ -29,6 +29,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
